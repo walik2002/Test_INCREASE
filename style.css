@@ -1,0 +1,14 @@
+body{
+    max-width: 1200px;
+    margin: 20px auto;
+}
+
+
+/* Стили для разделителя */
+.separator {
+	background-color: #333333;
+	height: 1px;
+    margin: 20px 0px;
+}
+
+
